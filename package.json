@@ -1,7 +1,7 @@
 {
   "name": "vuex-test",
   "version": "1.0.0",
-  "description": " test",
+  "description": "vue-test",
   "author": "lsy <490055313@qq.com>",
   "private": true,
   "scripts": {
@@ -12,8 +12,7 @@
   },
   "dependencies": {
     "vue": "^2.3.3",
-    "vue-router": "^2.6.0",
-    "vuex": "^2.3.1"
+    "vue-router": "^2.6.0"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
